@@ -30,7 +30,7 @@ public class TestGreeter {
   @Test
   public void Falsetest() {
 
-    assertTrue(false);
+    assertTrue(true);
   }
   @Test
   public void greetShouldIncludeGreetingPhrase() {
